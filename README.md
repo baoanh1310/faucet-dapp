@@ -2,6 +2,8 @@
 
 This is the front-end for ICB Token.
 
+URL: https://icb-faucet-dapp.vercel.app/
+
 ## Details
 
 - Faucet for Icebear token (symbol: ICB) deployed on NEAR Testnet
